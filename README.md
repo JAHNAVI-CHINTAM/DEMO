@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/JAHNAVI-CHINTAM/DEMO/tree/master/0027-remove-element) |
+| [0148-sort-list](https://github.com/JAHNAVI-CHINTAM/DEMO/tree/master/0148-sort-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JAHNAVI-CHINTAM/DEMO/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/JAHNAVI-CHINTAM/DEMO/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -42,4 +44,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/JAHNAVI-CHINTAM/DEMO/tree/master/0029-divide-two-integers) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/JAHNAVI-CHINTAM/DEMO/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/JAHNAVI-CHINTAM/DEMO/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/JAHNAVI-CHINTAM/DEMO/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
